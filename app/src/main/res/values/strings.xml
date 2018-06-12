@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My alcohol Quiz</string>
+    <string name="edit">Enter your name</string>
+    <string name="text_name">What is your  name?</string>
+    <string name="text_scor">Score</string>
+    <string name="text_score">0</string>
+    <string name="Quiz">Choose the Correct Answers</string>
+    <string name="check_box_text">"Women who drink daily are at greater risk of breast cancer"</string>
+    <string name="check_box_text2">The estimated economic cost of alcohol abuse was $184.6 billion for 1998</string>
+    <string name="text_view_title">Death Toll</string>
+    <string name="radio_text1">The death toll exacted by alcohol is not especially heavy among young people</string>
+    <string name="radio_text2">Alcohol is the leading cause of death among European men aged 15 to 29</string>
+    <string name="text_title2">Violence and Sexual Assault</string>
+    <string name="radio_answer">Alcohol does not contribute to acts of violence</string>
+    <string name="domestic_violence_radio">Alcohol is a significant factor in domestic violence and sexual assault</string>
+    <string name="cance_title">Cancer</string>
+    <string name="cancer_radio">Prolonged misuse of alcohol can also lead to cancer</string>
+    <string name="cancer_radio2">I will not get sick if I abuse alcohol</string>
+    <string name="submit_button">Submit</string>
+</resources>

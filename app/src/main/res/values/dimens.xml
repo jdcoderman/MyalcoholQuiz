@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="what_name_size">26sp</dimen>
+    <dimen name="name_top_margin">16dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="text_size">26sp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="check_marginT">10dp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+
+</resources>
